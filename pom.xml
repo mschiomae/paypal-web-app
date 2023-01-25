@@ -3,16 +3,16 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>Tesla</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.13</version>
 	
-	<name>maven-web-application</name>
+	<name>Tesla</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Tesla Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>Devops Chi</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
