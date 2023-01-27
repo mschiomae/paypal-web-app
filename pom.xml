@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Devops Chi Releases Nexus Repository</name>
-	      <url>http://44.204.115.171:8081/devopschi/repository/TeslaReleases/</url>
+	      <name>Tesla Releases Nexus Repository</name>
+	      <url>http://54.243.23.71:8081/repository/TeslaReleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Devops Chi Snapshot Nexus Repository </name>
-	      <url>http://44.204.115.171:8081/devopschi/repository/Teslasnapshots/</url>
+	      <name>Tesla Snapshots Nexus Repository </name>
+	      <url>http://54.243.23.71:8081/repository/TeslaSnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
